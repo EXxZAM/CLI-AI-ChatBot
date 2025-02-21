@@ -22,7 +22,7 @@ This is a simple yet interactive command-line chatbot that uses OpenRouter to ac
 1. Clone the repository:
    ```bash
    git clone https://github.com/EXxZAM/CLI-AI-ChatBot.git
-   cd cli-chatbot
+   cd CLI-AI-ChatBot
    ```
 2. Install required dependencies:
    ```bash
